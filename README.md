@@ -7,7 +7,7 @@ Todo:
 0. replicate feasible parts of table 30 in [ECB](https://github.com/epogrebnyak/cmf-comovement-tables/blob/master/ecbwp095.pdf) - uses BK filter
 0. make sample table for Russia
 
-Комментарий:
+Комментарий:  
 (1) подобрать набор даннных во FREDe, который соответствует показателям из двух статей  
 (2) посмотреть описательную статистику этих показателей (их стандартные отклонения)  
 (3) посмотреть доступ к процедурам фильтров HP и BK в R, попробовать прогнать серии через эти фильтры  
